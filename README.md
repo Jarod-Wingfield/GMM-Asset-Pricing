@@ -25,12 +25,11 @@ It includes:
 ---
 
 ## References
-
+* **Bae, J. W., Bali, T. G., Sharifkhani, A., & Zhao, X. (2022).** *Labor Market Networks, Fundamentals, and Stock Returns.* Georgetown McDonough School of Business Research Paper, (3951333).
+* **Belo, F., Li, J., Lin, X., & Zhao, X. (2017).** *Labor-Force Heterogeneity and Asset Prices: The Importance of Skilled Labor.* The Review of Financial Studies, 30(10), 3669–3709.
+* **Burnside, C. (2011).** *The Cross Section of Foreign Currency Risk Premia and Consumption Growth Risk: Comment.* American Economic Review, 101(7), 3456–3476.
 * **Cochrane, J. H. (2009).** *Asset Pricing: Revised Edition.* Princeton University Press.
 * **Hsu, P. H., Li, K., & Tsou, C. Y. (2023).** *The Pollution Premium.* The Journal of Finance, 78(3), 1343–1392.
-* **Burnside, C. (2011).** *The Cross Section of Foreign Currency Risk Premia and Consumption Growth Risk: Comment.* American Economic Review, 101(7), 3456–3476.
-* **Belo, F., Li, J., Lin, X., & Zhao, X. (2017).** *Labor-Force Heterogeneity and Asset Prices: The Importance of Skilled Labor.* The Review of Financial Studies, 30(10), 3669–3709.
-* **Bae, J. W., Bali, T. G., Sharifkhani, A., & Zhao, X. (2022).** *Labor Market Networks, Fundamentals, and Stock Returns.* Georgetown McDonough School of Business Research Paper, (3951333).
 
 **Online Resources:**
 
